@@ -1,2 +1,1 @@
-# cv
-idk about me
+https://github.com/Background-Character-A/cv
